@@ -1,3 +1,3 @@
 # Login
 Android Studio Project
-Download all files -> Open
+Download Zip file -> Extract Folder -> Open Project on Android Studio
