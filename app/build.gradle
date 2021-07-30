@@ -40,4 +40,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     implementation platform('com.google.firebase:firebase-bom:28.3.0')
     implementation 'com.google.android.gms:play-services-auth:19.2.0'
+    androidTestImplementation 'androidx.test:runner:1.1.0'
+    implementation 'com.karumi:dexter:4.2.0'
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
 }
